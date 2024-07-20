@@ -190,7 +190,7 @@ Center = zeros(1,d);% matrix for center node
 area = ones(1,1); % matrix for retrangle area
 f = zeros(1,1); % function value for center points
 getrho = zeros(1,1);
- a = zeros(1,d);
+a = zeros(1,d);
 V = zeros(1,n);
 M = zeros(1,n);
 
